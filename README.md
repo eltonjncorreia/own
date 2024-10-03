@@ -10,4 +10,3 @@ Link shortener
 | /                          | ShortLink           | display the url shortener page |
 | /{short-link}              | ShortLinkRedirect   | redirects to long link         |
 | /{short-link}/details/     | ShortLinkDetail     | display link details page      |
-|-----------------------------------------------------------------------------------|
